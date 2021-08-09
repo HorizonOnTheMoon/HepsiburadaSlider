@@ -49,7 +49,6 @@ function page_load(n) {
 }
 
 function bannerCreate(i) {
-    console.log("aa")
     var bg = document.getElementsByClassName("bg")[0];
     var div1 = document.createElement("div");
     div1.className = "mySlides";
